@@ -1,6 +1,8 @@
 # SkyBook - Airline Reservation System
 
 A comprehensive Airline Reservation System built with Java Swing GUI, designed as a course project for Java Programming at Jinan University.
+Username: Admin
+Pass: 123
 
 ## Project Overview
 
