@@ -1,0 +1,19 @@
+# Airline Reservation System Data
+# Auto-generated - Do not edit manually
+
+[FLIGHTS]
+FLIGHT|AI101|New York (JFK)|Los Angeles (LAX)|2026-05-31 08:00|Boeing 737|180|299.0
+FLIGHT|AI202|New York (JFK)|London (LHR)|2026-06-01 14:00|Boeing 777|250|599.0
+FLIGHT|AI303|Los Angeles (LAX)|Tokyo (NRT)|2026-06-02 10:00|Airbus A380|300|899.0
+FLIGHT|AI404|London (LHR)|Dubai (DXB)|2026-05-31 18:00|Boeing 787|220|449.0
+FLIGHT|AI505|Paris (CDG)|Singapore (SIN)|2026-06-03 20:00|Airbus A350|280|749.0
+
+[PASSENGERS]
+PASSENGER|1|John Doe|john.doe@email.com|555-0100|AB123456|American
+PASSENGER|2|Sarah Smith|sarah.smith@email.com|555-0200|CD789012|British
+PASSENGER|3|Ahmed Hassan|ahmed.hassan@email.com|555-0300|EF345678|Egyptian
+PASSENGER|4|Wei Chen|wei.chen@email.com|555-0400|GH901234|Chinese
+
+[BOOKINGS]
+BOOKING|ID2QSB|AI101|1|John Doe|1A|Cancelled
+BOOKING|JWYOED|AI101|2|Sarah Smith|2B|Confirmed
